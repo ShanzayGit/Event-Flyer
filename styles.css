@@ -1,0 +1,66 @@
+body{
+  padding-top:50px;
+  padding-bottom:50px;
+ /* margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  margin-bottom:0px;*/
+  margin:0px auto;
+  width:90vw;
+  min-height:calc(100vh - 100px);
+  text-align:center;
+  font-size:1rem;
+}
+
+h1,h2,h3{
+  font-style:italic;
+}
+
+time{
+  color:purple;
+  font-weight:bold;
+  font-size:1.25rem;
+}
+
+ section{
+  width:100%;
+  border:2px solid purple;
+  margin:20px;
+}
+
+img{
+  width:90%;
+}
+
+.LocInfo{
+  width:80%;
+  border-radius:20px;
+  border:2px solid purple;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.date-time, .venue{
+  border-left:2px solid purple;
+  margin:40px;
+  box-shadow:0 2px 4px plum;
+}
+
+.venue{
+  padding-bottom:10px;
+}
+
+.Event-Info{
+    width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:20px;
+  border:2px solid purple;
+}
+
+.details{
+   border-left:2px solid purple;
+  margin:40px;
+  padding:15px;
+  box-shadow:0 2px 4px plum;
+}
